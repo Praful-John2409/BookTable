@@ -23,7 +23,7 @@ An end-to-end restaurant reservation system inspired by OpenTable. Built for sea
 | **Apurva Karne**   | UI development (Login, Navbar, Admin, Dashboard), background integration, analytics iframe setup, logout/token expiry logic, documentation (README, journal), wireframes, diagrams, **testing** |
 | **Jayanth Kalyanam** | MongoDB Atlas integration, schema modeling, seed scripts, API route setup, deployment scripts, Google Maps embedding, backend logic (non-committed DB setup), **testing** |
 | **Manjunatha Inti** | Email/SMS functionality (booking confirmations, cancellations), UI for Manager form, reviews and booking display, Search functionality, styling improvements, Skeleton UI for all pages, **deployment** |
-| **Praful John**     | Booking logic (search filters, availability, time slots), review and rating API, Admin controls, search UI polish, MyBookings logic, restaurant CRUD functionality,search filters, availability checks, time slot validation, Google reviews integration, API testing, **deployment** |
+| **Praful John(Leader)**     | Booking logic (search filters, availability, time slots), review and rating API, Admin controls, search UI polish, MyBookings logic, restaurant CRUD functionality,search filters, availability checks, time slot validation, Google reviews integration, API testing, **deployment** |
 
 ---
 ## Project Journal
