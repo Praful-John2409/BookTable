@@ -47,10 +47,7 @@ const Cards = ({
     handleSelectedCard(name);
     handleSelectedCardData(results);
   };
-  // const GOOGLE_API_KEY = 'AIzaSyD6twIZ77sy_q-RhXZ7nsDVKzgoba4hRL8';
-  // const handleReviews = () => {
-  //   fetch('https://maps.googleapis.com/maps/api/place/details/json').then()
-  // }
+  
   const theme = useTheme();
   const isMobile = useMediaQuery(theme.breakpoints.down("sm"));
 
